@@ -11,8 +11,8 @@ class Car {
 
     // Default constructor
     public Car() {
-        brand = "";
-        model = "";
+        brand = "Toyota";
+        model = "Corolla";
     }
     // Constructor with all parameters
     public Car(String b, String m) {
