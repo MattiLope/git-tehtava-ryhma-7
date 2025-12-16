@@ -24,5 +24,10 @@ class Car {
         System.out.println("Brand is: " + brand);
         System.out.println("Model is: " + model);
     }
+    // Additional helper method added by Karina     
+    public void printInfo() {
+        System.out.println("Car: " + brand + " " + model);
+    }
+
 }
 
